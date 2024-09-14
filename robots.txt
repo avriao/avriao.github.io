@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://avriao.github.io/quN/sitemap.quN.gz
